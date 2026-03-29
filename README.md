@@ -1,4 +1,4 @@
-# ATM-Sytem.py
+# ATM-System.py
 balance = 10000
 pin = "1234"
 
