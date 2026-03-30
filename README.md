@@ -45,7 +45,7 @@ while True:
         print("Invalid Choice")
 ```
 
-##-----Output-----
+## -----Output-----
 ```
 ATM Menu :- 
 1. Check Balance
@@ -84,4 +84,4 @@ Thank You!
 
 ## Author
 Ayush Singh
-GitHub: @ayush893singh
+GitHub:@ayush893singh
