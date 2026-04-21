@@ -1,4 +1,4 @@
-# ATM Program 
+# Basic ATM Program 
 A simple ATM simulation program built in Python.
 
 ## Technologies Used
